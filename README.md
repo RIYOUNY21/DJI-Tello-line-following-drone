@@ -4,6 +4,6 @@ My colleague are : Dio Dwika Pramana, Nur Iman Wahyu Hidayat, Amelia Kusuma Putr
 # Demo
 https://youtu.be/8gaHBPGmfKI
 
-#Aknowledgements
+# Aknowledgements
 
 - [MAIN SOURCES Murtaza's Workshop - Robotics and AI] (https://www.youtube.com/watch?v=mJWa05lOwR0)
